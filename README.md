@@ -1,12 +1,12 @@
 # Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/viperior/binder-example/feature/nltk-demo)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viperior/binder-example/main)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
-http://mybinder.org/v2/gh/viperior/binder-example/feature/nltk-demo
+https://mybinder.org/v2/gh/viperior/binder-example/main
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
