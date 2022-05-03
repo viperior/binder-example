@@ -12,7 +12,7 @@ https://mybinder.org/v2/gh/viperior/binder-example/main
 The `requirements.txt` file should list all Python libraries that your notebooks
 depend on, and they will be installed using:
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
